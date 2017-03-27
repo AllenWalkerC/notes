@@ -6,4 +6,12 @@
 
 可以本地使用
 
-我把模块都传上来了，所以下载好后直接用命令行工具进入到notes目录，执行npm start，然后在浏览器地址栏输入localhost:3000即可
+我把模块都传上来了，所以比较大
+
+使用步骤
+
+1. git clone git@github.com:AllenWalkerC/notes.git
+2. cd notes
+3. cd 个人便利贴
+4. npm start
+5. 在浏览器的地址栏输入localhost:3000
