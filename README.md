@@ -8,7 +8,7 @@
 
 我把模块都传上来了，所以比较大
 
-使用步骤
+使用步骤（首先确保已经安装了node.js）
 
 1. git clone git@github.com:AllenWalkerC/notes.git
 2. cd notes
